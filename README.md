@@ -63,6 +63,7 @@ AI-Video-Assistant/
 │   └── audio_processor.py
 │
 ├── .gitignore
+├── README.md
 ├── Requirements.txt
 ├── app.py
 └── main.py
