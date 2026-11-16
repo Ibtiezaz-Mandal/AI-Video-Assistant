@@ -1,0 +1,15 @@
+# Virtual environments
+.venv312/
+
+.streamlit/
+# Environment variables and API keys
+.env
+
+downloades/
+uploaded_media/
+# Python cache
+__pycache__/
+
+
+# Vector database
+vector_db

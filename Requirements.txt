@@ -1,0 +1,15 @@
+streamlit
+yt-dlp
+openai-whisper
+torch
+langchain
+langchain-core
+langchain-community
+langchain-mistralai
+langchain-huggingface
+chromadb
+sentence-transformers
+transformers
+huggingface-hub
+reportlab
+python-dotenv
